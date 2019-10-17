@@ -8,7 +8,6 @@ Created on Thu Oct 17 21:09:37 2019
 
 import sys 
 import re 
-import numpy as np
 import time
        
 class Node(object):
