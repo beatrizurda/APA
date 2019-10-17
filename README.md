@@ -2,7 +2,9 @@
 2nd APA assignment
 
 FILE 1: 0.003159046173095703 s 
+
 FILE 2: 0.6112880706787109 s 
+
 FILE 3: 80.56356716156006 s
 
 The running of files 4 and 5 takes a lot of time. 
